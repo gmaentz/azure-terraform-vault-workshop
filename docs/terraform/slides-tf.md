@@ -1995,7 +1995,7 @@ Credits
 -------------------------
 A big shout out to Sean Carolan from HashiCorp who developed this lab.
 
-.center[![:scale 50%](images/sean.jpeg)]
+.center[![:scale 30%](images/sean.jpeg)]
 
 Be sure to check out more of Sean's content:
 
